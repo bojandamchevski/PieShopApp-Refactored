@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PieShopApp.DataAccess\PieShopApp.DataAccess.csproj" />
+    <ProjectReference Include="..\PieShopApp.Mappers\PieShopApp.Mappers.csproj" />
+    <ProjectReference Include="..\PieShopApp.ViewModels\PieShopApp.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

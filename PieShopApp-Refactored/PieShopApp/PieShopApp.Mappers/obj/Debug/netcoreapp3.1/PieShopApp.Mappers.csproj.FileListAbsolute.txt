@@ -1,0 +1,14 @@
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.Mappers.deps.json
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.Mappers.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.Mappers.pdb
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.Domain.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.ViewModels.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.Domain.pdb
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\bin\Debug\netcoreapp3.1\PieShopApp.ViewModels.pdb
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.AssemblyInfo.cs
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.csproj.CopyComplete
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Mappers\obj\Debug\netcoreapp3.1\PieShopApp.Mappers.pdb

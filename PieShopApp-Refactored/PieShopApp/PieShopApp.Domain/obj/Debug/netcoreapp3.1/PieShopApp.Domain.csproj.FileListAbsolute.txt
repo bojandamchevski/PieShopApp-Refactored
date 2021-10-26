@@ -1,0 +1,8 @@
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\bin\Debug\netcoreapp3.1\PieShopApp.Domain.deps.json
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\bin\Debug\netcoreapp3.1\PieShopApp.Domain.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\bin\Debug\netcoreapp3.1\PieShopApp.Domain.pdb
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\obj\Debug\netcoreapp3.1\PieShopApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\obj\Debug\netcoreapp3.1\PieShopApp.Domain.AssemblyInfo.cs
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\obj\Debug\netcoreapp3.1\PieShopApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\obj\Debug\netcoreapp3.1\PieShopApp.Domain.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Domain\obj\Debug\netcoreapp3.1\PieShopApp.Domain.pdb

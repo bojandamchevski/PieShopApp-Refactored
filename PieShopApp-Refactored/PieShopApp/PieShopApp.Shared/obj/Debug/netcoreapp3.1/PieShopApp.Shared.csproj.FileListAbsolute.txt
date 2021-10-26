@@ -1,0 +1,8 @@
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\bin\Debug\netcoreapp3.1\PieShopApp.Shared.deps.json
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\bin\Debug\netcoreapp3.1\PieShopApp.Shared.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\bin\Debug\netcoreapp3.1\PieShopApp.Shared.pdb
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\obj\Debug\netcoreapp3.1\PieShopApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\obj\Debug\netcoreapp3.1\PieShopApp.Shared.AssemblyInfo.cs
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\obj\Debug\netcoreapp3.1\PieShopApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\obj\Debug\netcoreapp3.1\PieShopApp.Shared.dll
+C:\Users\Com\Desktop\PieShopApp-Refactored\PieShopApp\PieShopApp.Shared\obj\Debug\netcoreapp3.1\PieShopApp.Shared.pdb

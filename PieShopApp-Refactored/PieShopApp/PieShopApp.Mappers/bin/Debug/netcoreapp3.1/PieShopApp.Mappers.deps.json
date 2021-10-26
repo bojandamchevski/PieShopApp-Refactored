@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PieShopApp.Mappers/1.0.0": {
+        "dependencies": {
+          "PieShopApp.Domain": "1.0.0",
+          "PieShopApp.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "PieShopApp.Mappers.dll": {}
+        }
+      },
+      "PieShopApp.Domain/1.0.0": {
+        "runtime": {
+          "PieShopApp.Domain.dll": {}
+        }
+      },
+      "PieShopApp.ViewModels/1.0.0": {
+        "runtime": {
+          "PieShopApp.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PieShopApp.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PieShopApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PieShopApp.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
